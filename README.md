@@ -2,11 +2,7 @@
 
 This project showcases A* pathfinding, a popular pathfinding algorithm, and allows you to generate mazes using Pygame. A* is used to find the shortest path from a start point to an end point while avoiding obstacles. You can also interactively create mazes and visualize the algorithm's operation.
 
-![A_star4](https://user-images.githubusercontent.com/95425179/166672036-b9fe8992-de65-4973-8b07-900f8e8e8d0f.gif)
-
 ![A_star2](https://user-images.githubusercontent.com/95425179/166672119-38d6ffdd-f380-400c-982d-4c723002b252.gif)
-
-![A* Pathfinding Screenshot](astar.png)
 
 ## Table of Contents
 
@@ -22,6 +18,8 @@ This project showcases A* pathfinding, a popular pathfinding algorithm, and allo
 ## Overview
 
 This project combines A* pathfinding and maze generation in a Pygame-based environment. You can visualize how the A* algorithm calculates the shortest path from a start point to an end point, avoiding obstacles in the form of walls. Additionally, you can interactively create mazes and observe the algorithm's operation.
+
+![A_star4](https://user-images.githubusercontent.com/95425179/166672036-b9fe8992-de65-4973-8b07-900f8e8e8d0f.gif)
 
 ## Key Features
 
